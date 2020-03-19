@@ -1,0 +1,30 @@
+## telnet whu.edu.cn 25
+![图1](https://github.com/w1009296924/MyImage/blob/master/QQ20200319202447.png)
+![图2](https://github.com/w1009296924/MyImage/blob/master/QQ20200319215155.png)
+
+## telnet maths.whu.edu.cn 80
+![图3](https://github.com/w1009296924/MyImage/blob/master/QQ20200319211120.png)
+
+## P4
+
+(a). The URL is gaia.cs.umass.edu/cs453/index.html
+
+(b) .HTTP/1.1
+
+(c).It's a persistent connection --- "Connection:keep-alive".
+
+(d). Can't find the IP address in HTTP message.
+
+(e). Mozilla/5.0, because The server needs browser type information to send different versions of the same object to different types of browsers.
+
+## P5
+
+(a). Yes, it can find the document successfully---("200 OK"), the time is Tue, 07 Mar 2008 12:39:45GMT---( "Date: Tue, 07 Mar 2008 12:39:45GMT").
+
+(b). Last modified at Sat, 10 Dec2005 18:27:46GMT.
+
+(c). There are 3874 bytes.
+
+(d). They are '<!doc'. 
+
+​	Yes, it agreed---"Connection: Keep-Alive".
